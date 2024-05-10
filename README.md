@@ -42,7 +42,7 @@
 
 ## Informações extras
 
-- [Collection Postman](./postman/API com IA.postman_collection.json)
+- [Collection Postman](./postman/API-com-IA.postman_collection.json)
 - GET: http://localhost:5000/api/funcionarios (Listar funcionários)
 - POST: http://localhost:5000/api/funcionarios (Pergunta sobre funcionários)
 - POST: http://localhost:5000/api/criar/funcionarios (Criar Funcionário)
