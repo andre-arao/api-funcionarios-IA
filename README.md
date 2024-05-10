@@ -1,4 +1,4 @@
-# API de informações sobre funcionários com IA
+![image](https://github.com/andre-arao/api-funcionarios-IA/assets/99445336/9b1e01c6-40ee-45cc-a06d-2ed8067fda40)# API de informações sobre funcionários com IA
 
 ## Ferramentas usadas 
     
@@ -54,3 +54,25 @@
 - POST: http://localhost:5000/api/criar/funcionarios (Criar Funcionário)
 
 # Evidências
+
+## Listar funcionários
+![image](https://github.com/andre-arao/api-funcionarios-IA/assets/99445336/7a2370bd-af45-4e68-b61a-edfa86171b7d)
+
+## Quantos funcionarios tenho?
+![image](https://github.com/andre-arao/api-funcionarios-IA/assets/99445336/cf3f98fa-a0ff-4a29-8c25-b514eedf9adf)
+
+## Nome do funcionario tem o segundo maior salario?
+![image](https://github.com/andre-arao/api-funcionarios-IA/assets/99445336/4c7e6b5c-a4c7-4dc0-814f-6492a9948547)
+
+## Quantos funcionarios trabalham como PJ e ganha mais de 5500?
+![image](https://github.com/andre-arao/api-funcionarios-IA/assets/99445336/89c7af77-927a-435a-bd8a-ee6ec65ab640)
+
+## Qual mulher ganha o maior salario, quanto é e qual o seu tipo de contratação ?
+![image](https://github.com/andre-arao/api-funcionarios-IA/assets/99445336/47d52e07-d9df-4fd8-bf5b-bafac7dc899e)
+
+## Quanto é o meu gasto total somente com funcionarios CLT?
+![image](https://github.com/andre-arao/api-funcionarios-IA/assets/99445336/d71a125d-210d-44cb-b98a-2a9492130bda)
+
+
+
+
