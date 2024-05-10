@@ -3,6 +3,8 @@
 ## Ferramentas usadas 
     
 - Python
+- Flask
+- Google Generative AI
 - PostgreSQL
 
 ## Instalaçao de dependências
