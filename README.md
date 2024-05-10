@@ -40,6 +40,12 @@
     );
     ```
 
+## Execução da aplicação
+- Entre na raiz do projeto e execute o comando a baixo.
+    ```
+    python main.py
+    ```
+
 ## Informações extras
 
 - [Collection Postman](./postman/API-com-IA.postman_collection.json)
