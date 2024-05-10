@@ -1,5 +1,8 @@
 # API de informações sobre funcionários com IA
 
+## Sobre
+ - Nessa API é feita a regra de negócio através da inteligência artificial do Google, com a ideia de trazer qualquer tipo de pergunta sobre todos os funcionários de uma empresa.
+
 ## Ferramentas usadas 
     
 - Python
