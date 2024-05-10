@@ -1,4 +1,4 @@
-![image](https://github.com/andre-arao/api-funcionarios-IA/assets/99445336/9b1e01c6-40ee-45cc-a06d-2ed8067fda40)# API de informações sobre funcionários com IA
+# API de informações sobre funcionários com IA
 
 ## Ferramentas usadas 
     
